@@ -1,4 +1,4 @@
-# INFO 2603 Platform Technologies 1
+# About
 
 - Lecturer: Dr. Phaedra Mohammed
 - Lecturer Contact: phaedra.mohammed@my.uwi.edu
@@ -7,18 +7,18 @@
 - [Course Outline](files/outline.pdf)
 
 
-## Anouncements
+# Anouncements
 
-### 09/05/2018
+## 09/05/2018
 
 >Students, <br><br>
 >A lecture will take place lieu of the lab on Wednesday Sep. 5, 2018 at 2:00 pm in FST 113.
 This is for Week 1 only. Labs will start on Sep. 12, 2018. <br><br>
 >PSM
 
-## Couse Timeline
+# Couse Timeline
 
-###  Week 1 03/09/2018: Computer Architecture and Organization
+##  Week 1 03/09/2018: Computer Architecture and Organization
 
 - [Lecture 1](files/lecture1.pdf)
 - [Worksheet 1](files/WS1.pdf)
