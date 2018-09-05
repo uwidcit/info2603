@@ -1,7 +1,9 @@
-# INFO2603 Platform Technologies
+---
+layout: app
+title: INFO 2603 Platform Technologies
+---
 
-{% include pwa.html %}
-
+# About
 - Lecturer: Dr. Phaedra Mohammed
 - Lecturer Contact: phaedra.mohammed@my.uwi.edu
 - Tutor: Nicholas Mendez
