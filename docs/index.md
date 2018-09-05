@@ -1,4 +1,31 @@
-## INFO 2603 Platform Technologies 2
+# INFO 2603 Platform Technologies 1
+
+- Lecturer: Dr. Phaedra Mohammed
+- Lecturer Contact: phaedra.mohammed@my.uwi.edu
+- Tutor: Nicholas Mendez
+- Tutor Contact: info26603uwi@gmail.com
+- [Course Outline](files/outline.pdf)
+
+
+## Anouncements
+
+### 09/05/2018
+```
+Students,
+
+A lecture will take place lieu of the lab on Wednesday Sep. 5, 2018 at 2:00 pm in FST 113.
+This is for Week 1 only. Labs will start on Sep. 12, 2018.
+
+PSM
+```
+## Timeline
+
+### Week 1
+
+
+
+
+
 
 
 You can use the [editor on GitHub](https://github.com/uwidcit/info2603/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
