@@ -1,0 +1,26 @@
+{
+  "name": "info2603",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "gen-sw": "workbox generateSW workbox-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwidcit/info2603.git"
+  },
+  "author": "snickdx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uwidcit/info2603/issues"
+  },
+  "homepage": "https://github.com/uwidcit/info2603#readme",
+  "dependencies": {
+    "jekyll": "^3.0.0-beta1",
+    "workbox-cli": "^3.4.1"
+  }
+}
