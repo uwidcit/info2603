@@ -1,3 +1,4 @@
+{% include pwa.html %}
 # INFO2603 Platform Technologies
 
 - Lecturer: Dr. Phaedra Mohammed
@@ -22,5 +23,3 @@ This is for Week 1 only. Labs will start on Sep. 12, 2018. <br><br>
 
 - [Lecture 1](files/lecture1.pdf)
 - [Worksheet 1](files/WS1.pdf)
-
-{% include pwa.html %}
