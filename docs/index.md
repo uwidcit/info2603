@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## INFO 2603 Platform Technologies 2
+
 
 You can use the [editor on GitHub](https://github.com/uwidcit/info2603/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
