@@ -1,5 +1,6 @@
-{% include pwa.html %}
 # INFO2603 Platform Technologies
+
+{% include pwa.html %}
 
 - Lecturer: Dr. Phaedra Mohammed
 - Lecturer Contact: phaedra.mohammed@my.uwi.edu
