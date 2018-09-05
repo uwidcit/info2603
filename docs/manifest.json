@@ -3,7 +3,7 @@
   "short_name": "INFO 2602",
   "theme_color": "#d5000d",
   "background_color": "#dbe3e9",
-  "display": "portrait",
+  "display": "fullscreen",
   "scope": "/",
   "start_url": "/",
   "icons": [
