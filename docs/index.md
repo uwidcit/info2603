@@ -1,5 +1,4 @@
 ---
-layout: default
 title: INFO 2603 Platform Technologies
 ---
 
