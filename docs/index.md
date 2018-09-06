@@ -22,7 +22,8 @@ This is for Week 1 only. Labs will start on Sep. 12, 2018. <br><br>
 
 # Course Content
 
-##  Week 1 03/09/2018: Computer Architecture and Organization
+##  Week 1 03/09/2018:
+#### Computer Architecture and Organization
 
 - [Lecture 1](files/lecture1.pdf)
 - [Worksheet 1](files/WS1.pdf)
