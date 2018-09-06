@@ -20,7 +20,7 @@ layout: app
 This is for Week 1 only. Labs will start on Sep. 12, 2018. <br><br>
 >PSM
 
-# Couse Timeline
+# Course Content
 
 ##  Week 1 03/09/2018: Computer Architecture and Organization
 
