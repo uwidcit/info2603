@@ -1,5 +1,6 @@
 ---
 title: INFO 2603 Platform Technologies
+layout: app
 ---
 
 # About
