@@ -3,5 +3,7 @@ module.exports = {
   "globPatterns": [
     "**/*.{css,png,html}"
   ],
-  "swDest": "docs\\sw.js"
+  "swDest": "docs\\sw.js",
+	clientsClaim:true,
+	skipWaiting: true
 };
