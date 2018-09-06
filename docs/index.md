@@ -3,7 +3,7 @@ title: INFO 2603 Platform Technologies
 layout: app
 ---
 
-# About
+# Course Info
 - Lecturer: Dr. Phaedra Mohammed
 - Lecturer Contact: phaedra.mohammed@my.uwi.edu
 - Tutor: Nicholas Mendez
