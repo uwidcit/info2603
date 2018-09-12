@@ -12,6 +12,8 @@ layout: app
 
 
 # Anouncements
+## Lab Assignments
+![alt text](files/labs.PNG "Lab Assignments")
 
 
 # Course Content
