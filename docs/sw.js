@@ -39,6 +39,10 @@ self.__precacheManifest = [
     "revision": "6002921db578c7428a8ba3ef08e3189a"
   },
   {
+    "url": "files/lab1.pdf",
+    "revision": "a0bd9808c76bec196dca403aa78e8c7d"
+  },
+  {
     "url": "files/lecture1.pdf",
     "revision": "5ed2961b6a090c80d31076cd39fb0470"
   },
