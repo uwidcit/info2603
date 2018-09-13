@@ -28,15 +28,6 @@ layout: app
 #### Computer Architecture and Organization
 
 - [Lecture 2](files/lecture2.pdf)
-- [Lab 1](files/lab1.pdf)
-
-##  Week 3:
-#### Instruction Sets
-
 - [Lecture 3](files/lecture3.pdf)
-
-##  Week 4:
-#### Operating Systems
-
 - [Lecture 4](files/lecture4.pdf)
-
+- [Lab 1](files/lab1.pdf)
