@@ -37,9 +37,14 @@ Lab Group 1: Wednesday 26th, September 2017 at 2:00 pm in FST CSL1.
 Lab Group 2: Thursday 27th, September 2017 at 2:00 pm in FST CSL1.
 Topics from Units 1 and 2 will be tested using a series of problems and short answer questions.
 
+## Notice #4
+Coursework Test #1,
+Lab Group 1: Wednesday 26th September, 2018 at 2:00pm, CSL1
+Lab Group 2: Thursday 27th September, 2018 at 8:00am, CSL1
+Topics to be examined: Content from Lectures 1-7, Worksheets 1-3, Labs 1-2 (Theoretical Aspects).
 
 ## Lab Assignments
-![alt text](files/labs.PNG "Lab Assignments")
+![alt text](files/labs.png "Lab Assignments")
 
 
 # Course Content
@@ -58,3 +63,6 @@ Topics from Units 1 and 2 will be tested using a series of problems and short an
 
 ## Week 3:
 - [Lecture 6](files/lecture6.pdf)
+- [Lecture 6](files/lecture7.pdf)
+- [Lab 2](files/lab2.pdf)
+- [Worksheet 3](files/WS3.pdf)
