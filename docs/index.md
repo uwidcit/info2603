@@ -44,7 +44,7 @@ Lab Group 2: Thursday 27th September, 2018 at 8:00am, CSL1
 Topics to be examined: Content from Lectures 1-7, Worksheets 1-3, Labs 1-2 (Theoretical Aspects).
 
 ## Lab Assignments
-![alt text](files/labs.png "Lab Assignments")
+![alt text](files/labsupdated.png "Lab Assignments")
 
 
 # Course Content
