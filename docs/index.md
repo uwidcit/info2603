@@ -63,6 +63,6 @@ Topics to be examined: Content from Lectures 1-7, Worksheets 1-3, Labs 1-2 (Theo
 
 ## Week 3:
 - [Lecture 6](files/lecture6.pdf)
-- [Lecture 6](files/lecture7.pdf)
+- [Lecture 7](files/lecture7.pdf)
 - [Lab 2](files/lab2.pdf)
 - [Worksheet 3](files/WS3.pdf)
