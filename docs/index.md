@@ -66,3 +66,7 @@ Topics to be examined: Content from Lectures 1-7, Worksheets 1-3, Labs 1-2 (Theo
 - [Lecture 7](files/lecture7.pdf)
 - [Lab 2](files/lab2.pdf)
 - [Worksheet 3](files/WS3.pdf)
+
+## Week 8:
+- [Lab 5](files/lab5.pdf)
+- [LabRoll](https://docs.google.com/forms/d/e/1FAIpQLSeT_Yi_muT2aQq_PNWrbERrG0LkPv3CfqmNIAd_gm-5o10S7g/formResponse)
