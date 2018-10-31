@@ -47,8 +47,9 @@ Topics to be examined: Content from Lectures 1-7, Worksheets 1-3, Labs 1-2 (Theo
 ![alt text](files/labsupdated.png "Lab Assignments")
 
 
-## Lab Roll
-[link](https://goo.gl/forms/zxnJgd3pPGsCoinp1)
+## [Lab Roll](https://goo.gl/forms/zxnJgd3pPGsCoinp1)
+
+## Lab Folder: \\safstdcitsvr003\data\
 
 # Course Content
 
