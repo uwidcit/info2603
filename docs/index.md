@@ -71,8 +71,6 @@ Topics to be examined: Content from Lectures 1-7, Worksheets 1-3, Labs 1-2 (Theo
 - [Worksheet 3](files/WS3.pdf)
 
 ## Week 8:
-<<<<<<< HEAD
-
 - [Lab 5](files/lab5.pdf)
 
 
