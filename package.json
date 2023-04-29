@@ -21,6 +21,6 @@
   "homepage": "https://github.com/uwidcit/info2603#readme",
   "dependencies": {
     "jekyll": "^3.0.0-beta1",
-    "workbox-cli": "^3.4.1"
+    "workbox-cli": "^6.5.4"
   }
 }
